@@ -4,10 +4,9 @@
   <tr>
     <td width="33%" valign="top">
       <h3>Spoiler</h3>
-        <br />
         <p><a href="https://github.com/kiipuri/spoiler">Repo</a></p>
-        <br />
         <p>A TUI frontend for Transmission built with Rust</p>
+        <img src="./media/spoiler.gif" width="100%" alt="spoiler" />
     </td>
   </tr>
 </table>
