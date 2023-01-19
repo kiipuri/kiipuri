@@ -2,18 +2,20 @@
 
 <table bordercolor="#66b2b2">
   <tr>
-    <td width="33%" valign="top">
+    <td width="100%" valign="top">
       <h3>Spoiler</h3>
         <p><a href="https://github.com/kiipuri/spoiler">Repo</a></p>
         <p>A TUI frontend for Transmission built with Rust</p>
         <img src="./media/spoiler.gif" width="100%" alt="spoiler" />
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>mevn</h3>
         <p><a href="https://github.com/kiipuri/mevn">Repo</a></p>
         <p>Simple social media website built with Vue.js, Express, Mongo and Node.js</p>
     </td>
-  </tr>
+  <tr>
 </table>
 
 ---
