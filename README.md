@@ -8,6 +8,11 @@
         <p>A TUI frontend for Transmission built with Rust</p>
         <img src="./media/spoiler.gif" width="100%" alt="spoiler" />
     </td>
+    <td width="33%" valign="top">
+      <h3>mevn</h3>
+        <p><a href="https://github.com/kiipuri/mevn">Repo</a></p>
+        <p>Simple social media website built with Vue.js, Express, Mongo and Node.js</p>
+    </td>
   </tr>
 </table>
 
